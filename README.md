@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tichinia, but feel free to call me Pinky.
 - 👀 I’m interested in using software development to make the world a better place.
-- 🌱 I’m currently learning Fullstack Development with SavvyCoders.
-- 💞️ I’m looking to collaborate on beginner JavaScript, HTML, and CSS projects.
+- 🌱 I’m currently honing my Fullstack Development skills with emphasis on JavaScript.
+- 💞️ I’m looking to collaborate on beginner JavaScript, REACT, HTML, and CSS projects.
 - 📫 How to reach me via email at freepinky515@gmail.com
 
 <!---
